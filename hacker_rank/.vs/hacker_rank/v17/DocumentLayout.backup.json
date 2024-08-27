@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\c#\\hacker rank\\hacker_rank\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\mini_max_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\mini_max_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\staircase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\plusminus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\disum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\disum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Mini_Max_Sum.cs",
+              "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Mini_Max_Sum.cs",
+              "RelativeDocumentMoniker": "hacker_rank\\Mini_Max_Sum.cs",
+              "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Mini_Max_Sum.cs",
+              "RelativeToolTip": "hacker_rank\\Mini_Max_Sum.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:49:48.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staircase.cs",
+              "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Staircase.cs",
+              "RelativeDocumentMoniker": "hacker_rank\\Staircase.cs",
+              "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Staircase.cs",
+              "RelativeToolTip": "hacker_rank\\Staircase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T06:26:14.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlusMinus.cs",
+              "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\PlusMinus.cs",
+              "RelativeDocumentMoniker": "hacker_rank\\PlusMinus.cs",
+              "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\PlusMinus.cs",
+              "RelativeToolTip": "hacker_rank\\PlusMinus.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvzwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:53:22.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiSum.cs",
+              "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\DiSum.cs",
+              "RelativeDocumentMoniker": "hacker_rank\\DiSum.cs",
+              "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\DiSum.cs",
+              "RelativeToolTip": "hacker_rank\\DiSum.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T05:45:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Program.cs",
               "RelativeDocumentMoniker": "hacker_rank\\Program.cs",
               "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Program.cs",
               "RelativeToolTip": "hacker_rank\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAtwDgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T03:07:59.935Z",
               "EditorCaption": ""

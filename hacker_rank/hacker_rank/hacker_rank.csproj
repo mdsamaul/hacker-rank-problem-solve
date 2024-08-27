@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DiSum.cs" />
+    <Compile Include="Mini_Max_Sum.cs" />
+    <Compile Include="PlusMinus.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Staircase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
