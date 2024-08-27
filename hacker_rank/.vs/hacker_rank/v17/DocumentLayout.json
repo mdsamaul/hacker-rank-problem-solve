@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\hacker rank\\hacker_rank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|d:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D361BF-F0D8-4B9B-B769-0AA75DB1BFAA}|hacker_rank\\hacker_rank.csproj|solutionrelative:hacker_rank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Program.cs",
+              "RelativeDocumentMoniker": "hacker_rank\\Program.cs",
+              "ToolTip": "D:\\c#\\hacker rank\\hacker_rank\\hacker_rank\\Program.cs",
+              "RelativeToolTip": "hacker_rank\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:07:59.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

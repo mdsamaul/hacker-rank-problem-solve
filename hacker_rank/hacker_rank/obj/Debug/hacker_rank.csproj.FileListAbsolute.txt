@@ -1,0 +1,7 @@
+D:\c#\hacker rank\hacker_rank\hacker_rank\bin\Debug\hacker_rank.exe.config
+D:\c#\hacker rank\hacker_rank\hacker_rank\bin\Debug\hacker_rank.exe
+D:\c#\hacker rank\hacker_rank\hacker_rank\bin\Debug\hacker_rank.pdb
+D:\c#\hacker rank\hacker_rank\hacker_rank\obj\Debug\hacker_rank.csproj.AssemblyReference.cache
+D:\c#\hacker rank\hacker_rank\hacker_rank\obj\Debug\hacker_rank.csproj.CoreCompileInputs.cache
+D:\c#\hacker rank\hacker_rank\hacker_rank\obj\Debug\hacker_rank.exe
+D:\c#\hacker rank\hacker_rank\hacker_rank\obj\Debug\hacker_rank.pdb
